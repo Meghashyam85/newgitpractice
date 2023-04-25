@@ -4,6 +4,10 @@
 echo "Hello world"
 pwd
 ls -lrt
+<<<<<<< HEAD
 echo "This is practice"
 echo "hi team"
 
+=======
+ls -la
+>>>>>>> devops
