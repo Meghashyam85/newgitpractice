@@ -4,3 +4,6 @@
 echo "Hello world"
 pwd
 ls -lrt
+echo "This is practice"
+echo "hi team"
+
