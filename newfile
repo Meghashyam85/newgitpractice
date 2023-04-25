@@ -5,3 +5,4 @@ ls -l
 >>>>>>> devops
 >>>>>>> master
 echo "hello world"
+pwd
