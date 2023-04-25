@@ -2,6 +2,3 @@
 
 #!/bin/sh
 echo "Hello world"
-pwd
-ls -lrt
-ls -la
